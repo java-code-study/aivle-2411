@@ -1,3 +1,5 @@
+package com.chap06.sub01;
+
 class Prod {
     int id;
     String nm;
